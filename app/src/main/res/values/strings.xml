@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMS Receiever</string>
+    <string name="action_settings">Settings</string>
+    <string name="status_name">SMS Receiver Demo</string>
+    <string name="btn_OK">Close</string>
+    <string name="title_activity_sms_content">smsContent</string>
+    <string name="title_activity_smscontent">SMSContent</string>
+    <string name="number_textview">Number: </string>
+    <string name="content_textview">Content</string>
+</resources>
